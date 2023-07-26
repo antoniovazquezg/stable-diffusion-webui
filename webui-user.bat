@@ -3,7 +3,7 @@
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS=--xformers --listen --api
+set COMMANDLINE_ARGS=--xformers 
 set DREAMBOOTH_SKIP_INSTALL=True
 set SAFETENSORS_FAST_GPU=1
 
